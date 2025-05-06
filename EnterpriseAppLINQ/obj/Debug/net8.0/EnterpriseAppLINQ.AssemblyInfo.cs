@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnterpriseAppLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76e16d8b00fa859dbae0d44ca862175f886f3dad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnterpriseAppLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnterpriseAppLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
